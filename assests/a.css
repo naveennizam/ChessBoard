@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+.head {
+    font-weight: bold;
+}
+.cell {
+    height: 50px;
+    width: 50px;
+    border: 1.5px solid rgb(3, 3, 3);
+   
+}
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
+}
+
